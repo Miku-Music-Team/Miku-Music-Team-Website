@@ -397,7 +397,7 @@ body.on {
 
 	.features .feature {
 		flex-direction: column;
-	}
+	}`````
 
 	.features .feature:nth-child(2) {
 		flex-direction: column;
